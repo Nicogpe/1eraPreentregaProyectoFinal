@@ -1,0 +1,22 @@
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.csproj.AssemblyReference.cache
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.AssemblyInfoInputs.cache
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.AssemblyInfo.cs
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.csproj.CoreCompileInputs.cache
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\1er Preentrega Proyecto Final.exe
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\1er Preentrega Proyecto Final.deps.json
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\1er Preentrega Proyecto Final.runtimeconfig.json
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\1er Preentrega Proyecto Final.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\1er Preentrega Proyecto Final.pdb
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.csproj.CopyComplete
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\refint\1er Preentrega Proyecto Final.dll
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.pdb
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\1er Preentrega Proyecto Final.genruntimeconfig.cache
+D:\Curso C#\Proyectos\Final\ProyectoFinalCursoC\1er Preentrega Proyecto Final\1er Preentrega Proyecto Final\obj\Debug\net6.0\ref\1er Preentrega Proyecto Final.dll
